@@ -1,7 +1,12 @@
-But i did as much as i could.  I felt that there wasnt anything different or cool or unique to what I did. But i felt furthering my understanding of react hooks and states was pretty cool. It was exciting to be able to get the light and dark mode so quickly implemented. 
+Implementation of button to switch between light and dark mode using states and hooks. 
+
+Partial Implementation of a drop down menu.
 
 
-DId not get to finish the drop down menu part. It was a bit difficult to get it how i wanted. 
+I felt that there wasnt anything different or cool or unique to what I did. But i felt furthering my understanding of react hooks and states was pretty cool. It was exciting to be able to get the light and dark state modes so quickly implemented. 
+
+
+DId not get to finish the drop down menu part. It was a bit difficult to get it how I wanted, But i did as much as i could. 
 
 
 
