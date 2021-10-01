@@ -1,0 +1,109 @@
+#dd-header-title{
+
+	width: 118px;
+	height: 15px;
+	left: 777px;
+	top: 100px;
+	font-weight: bold;
+
+	line-height: 15px;
+
+}
+
+.dd-header-title:hover{
+	cursor: pointer;
+}
+
+#select{
+	margin-top: 20px;
+	top: 20px;
+	border: none;
+	color: #7C5DFA;
+
+	-webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+
+
+}
+
+.dd-list{
+	width: 192px;
+	height: 128px;
+	left: 740px;
+	top: 132px;
+	margin-top: 20px;
+	background-color: inherit;
+	box-shadow:  5px 5px 5px 5px rgb(0 0 0 / 0.2);
+	border-radius: 10px;
+	padding-top: 10px;
+
+
+}
+
+.dd-list-item{
+	display: block;
+	margin-top: 10px;
+	background: none;
+	border: none;
+	text-align: center;
+	font-family: Spartan;
+	font-weight: bold;
+
+
+}
+.dd-list-item:hover{
+	cursor:  pointer;
+}
+
+.dd-list-item:hover .checkbox{
+	cursor: pointer;
+	border: solid 0.5px;
+	border-color: #7C5DFA;
+	cursor: pointer;
+	
+
+}
+
+.checkbox{
+	min-width: 16px;
+	min-height: 16px;
+	border-radius: 2px;
+	
+	background: #DFE3FA;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+/*.checkbox:hover{
+	border: solid 0.5px;
+	border-color: #7C5DFA;
+	cursor: pointer;
+}	*/
+
+
+.dd-wrapper {
+
+	position: absolute;
+	width: 200px;
+	height: 15px;
+	left: 777px;
+	top: 94px;
+
+}
+
+#chevron {
+	width: 20px;
+	height: 19px;
+	right: 0.54px;
+	color: #7C5DFA;
+	
+}
+
+#bar{
+	display: none;
+}
